@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/lekeifer/CLionProjects/MazeLab/Maze.h
+MazeInterface.h
+/Users/lekeifer/CLionProjects/MazeLab/MazeInterface.h
+sstream
+-
+
+/Users/lekeifer/CLionProjects/MazeLab/MazeInterface.h
+string
+-
+
+/Users/lekeifer/CLionProjects/MazeLab/main.cpp
+iostream
+-
+fstream
+-
+Maze.h
+/Users/lekeifer/CLionProjects/MazeLab/Maze.h
+
